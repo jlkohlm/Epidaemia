@@ -1,0 +1,24 @@
+Package Epidemia
+
+Author: Joao Luiz Kohl-Moreira
+
+May 12, 2021
+
+Package comes with two branches with applications:
+
+- Epidemic, which runs the simulations;
+- Epidemic2D, a 2D-graphic exposures of the simulations evolution.
+
+First, you should run Epidemic to get data for Epidemic2D to run.
+
+Installation:
+
+Unzip the package wherever you may do it.
+
+To run apps use the command:
+
+$ java -jar [Path]/[app-name].jar
+
+	[app-name] may be Epidemic or Epidemic2D.
+
+Defining aliases or short cuts and putting them on the Desktoo would give you ways to run them easily.
